@@ -18,6 +18,7 @@ public class SawMain : MonoBehaviour
 
     void MyNewFancyScript()
     {
-
+        int x = 5; int y = 5;
+        Debug.Log(x + y);
     }
 }
